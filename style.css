@@ -107,7 +107,7 @@ html,body{
 
 }
 
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   #home{
     height: 80vh;
     border-radius: 0;
@@ -267,7 +267,7 @@ html,body{
 .row img{
     height: 100px;
 }
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   .row h1 {
     font-size: 15vw;
     font-weight: 900;
@@ -309,7 +309,7 @@ html,body{
     height: 100vh;
     background: linear-gradient(to bottom,  #dad5d5,#f4a996);
 }
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   #imagery {
     height: 70vh;
     
@@ -397,7 +397,7 @@ html,body{
 
 }
 
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   #imglef h1{
     font-weight: 400;
     font-size: 5vw;
@@ -428,7 +428,7 @@ html,body{
     -webkit-text-fill-color: transparent;
     animation: animate-gradient 5.5s linear infinite ;
 }
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   #work h1{
     font-weight: 400;
     font-size: 9vw;
@@ -673,7 +673,7 @@ a{
 }
 
 
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   .flip-card1 {
     width: 250px;
     margin-left: 40px;
@@ -862,7 +862,7 @@ a{
     -webkit-text-fill-color: transparent;
     animation: animate-gradient 5.5s linear infinite ;
 }
-@media (max-width: 376px) {
+@media (max-width: 430px) {
   #cntct h1{
     font-weight: 400;
     font-size: 9vw;
@@ -887,7 +887,7 @@ a{
     animation: animate-gradient 5.5s linear infinite ;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 430px) {
    h3{
     font-weight: 500;
     font-size: 5vw;
